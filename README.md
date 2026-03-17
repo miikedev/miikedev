@@ -9,9 +9,8 @@ Strong background in the **Software Development Lifecycle (SDLC)** — from plan
 ## 🛠️ Tech Stack
 
 **Frontend**
-- HTML, CSS, JavaScript (ES6+)
 - React.js / Next.js
-- Tailwind CSS / Bootstrap
+- Tailwind CSS
 
 **Backend**
 - Node.js / Express.js
